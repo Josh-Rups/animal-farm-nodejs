@@ -36,3 +36,4 @@ You can also run the tests via `yarn`:
 ```shell
 yarn test
 ```
+## CI/CD Tested
